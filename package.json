@@ -1,0 +1,11 @@
+{
+  "name": "mavr-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mavr — landing sahifalar (mavr.uz, /2plus6, /vakansiyalar)",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}

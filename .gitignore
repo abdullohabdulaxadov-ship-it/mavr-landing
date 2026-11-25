@@ -1,0 +1,9 @@
+node_modules/
+.env
+arizalar/
+*.log
+
+.env.*
+data/
+brands/*/arizalar/
+brands/*/sessions.json
